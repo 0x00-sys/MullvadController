@@ -7,7 +7,7 @@ This utility ensures compliance with the Fortnite Terms of Service, which prohib
 - 🎮 **Fortnite Compliance**: Automatically disconnects Mullvad VPN when `FortniteClient-Win64-Shipping.exe` is detected.
 - 🔄 **Auto Reconnect**: Re-establishes the VPN connection once Fortnite and associated services are no longer running.
 - 🔒 **Privacy First**: Ensures you are always protected by your VPN while not in-game.
-- 🚀 **Startup Integration**: Configured to start with Windows, running silently in the background.
+- 🚀 **Startup Integration**: Running silently in the background. Use Task Scheduler to automate the startup.
 - 📝 **Logging**: Maintains logs for VPN disconnections and reconnections for troubleshooting.
 
 ## Prerequisites
